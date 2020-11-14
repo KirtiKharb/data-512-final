@@ -81,12 +81,18 @@ Similar process will be used to test **hypothesis 3** where we will perform the 
 For the **research question 4**, we will use logistic regression to model the predictors ('Age', 'Gender', 'family_history', 'benefits', 'care_options', 'anonymity', 'leave', 'work_interfere', ‘remote_work’, ‘self_employed’, ‘coworkers’, ‘supervisor’) on the dependent variable ‘Treatment’ and find out which of these variables strongly predict whether an individual has mental health  condition and therefore needs treatment.
 
 
+### References
+
+1) https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3966-2019.pdf
+
+2) https://www.infoq.com/articles/mental-health-tech-workplace/
+
+3) https://osmihelp.org/research
+
 ### License
 This code is available under the [MIT License](./LICENSE).
 
-The dataset [OSMI Mental Health In Tech Survey 2019](https://www.kaggle.com/osmihelp/osmi-mental-health-in-tech-survey-2019) is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-The dataset [World Happiness Report]( https://www.kaggle.com/unsdsn/world-happiness) is available under [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
+The dataset [OSMI Mental Health In Tech Survey 2014](https://www.kaggle.com/osmi/mental-health-in-tech-survey) is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ### Terms of Use
 By using the data and source code in this repository, you agree to their respective licenses. 
