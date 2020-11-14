@@ -1,7 +1,7 @@
 # Impact of the workplace environment on Mental Health
 
 ## Final Project Proposal
-
+## Kirti Kharb
 ### Motivation/Problem statement:
 Mental health has become a serious concern in the 21st century. As people in technical jobs lead a sedentary lifestyle and have very few social engagements outside their workplace, It is important to study the factors in a workplace that affect an individual’s mental health. I want to know how employers can take measures to promote their employee’s mental health and spread awareness to address this growing concern. Aside from company policies with regard to health, leaves, insurance, etc., the ability to comfortably communicate health problems with colleagues and supervisors can have a serious impact on an employee’s mental health.  
 
